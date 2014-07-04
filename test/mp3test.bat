@@ -1,0 +1,1 @@
+java -jar .\dist\MP3Demo.jar > ..\output\mp3out.txt

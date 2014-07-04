@@ -1,0 +1,31 @@
+ProductId	ProductName	Region	Weight(ton)	Cost(million)	ProductDescription
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+P1	 Water		EasternStates	1000.0	10.0	 Water from Michigan Lake
+P24	 Lamp		CentralStates	60.0	20.0	 Lamp from Japan
+P18	 shampoo		EasternStates	400.0	23.0	 shampoo from Illinois
+P17	 Shrimp		CentralStates	700.0	90.0	 Shrimp from Hawaii
+P18	 shampoo		PacificStates	400.0	23.0	 shampoo from Illinois
+P6	 Chicken		EasternStates	600.0	45.0	 Chicken from Alabama
+P11	 Apple		CentralStates	500.0	35.0	 Apple from Florida
+P28	 Oil		PacificStates	600.0	28.0	 Oil from Louisiana
+P9	 Lamb		EasternStates	800.0	55.0	Lamb from Idaho
+P16	 Fish		CentralStates	1200.0	60.0	 Fish from Alaska
+P6	 Chicken		PacificStates	600.0	45.0	 Chicken from Alabama
+P4	 Wine		EasternStates	4000.0	50.0	 Wine from New Jersy
+P4	 Wine		CentralStates	4000.0	50.0	 Wine from New Jersy
+P10	 Honeydue		PacificStates	300.0	40.0	 Hondydue from California
+P13	 Egg		EasternStates	900.0	20.0	 Egg from Lowa
+P10	 Honeydue		CentralStates	300.0	40.0	 Hondydue from California
+P1	 Water		PacificStates	1000.0	10.0	 Water from Michigan Lake
+P27	 Sugar		EasternStates	4000.0	13.0	 Sugar from Taiwan
+P9	 Lamb		CentralStates	800.0	55.0	Lamb from Idaho
+P11	 Apple		PacificStates	500.0	35.0	 Apple from Florida
+P23	 Computer		EasternStates	300.0	80.0	 Computer from China
+P24	 Lamp		CentralStates	60.0	20.0	 Lamp from Japan
+P7	 Pork		PacificStates	500.0	40.0	 Pork from Maine
+P11	 Apple		EasternStates	500.0	35.0	 Apple from Florida
+P6	 Chicken		CentralStates	600.0	45.0	 Chicken from Alabama
+P29	 Beer		PacificStates	1800.0	680.0	 Beer from Germany
+P24	 Lamp		EasternStates	60.0	20.0	 Lamp from Japan
+P1	 Water		CentralStates	1000.0	10.0	 Water from Michigan Lake
+P20	 Toothpaste		PacificStates	600.0	40.0	 Toothpaste from Massachusettes

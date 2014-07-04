@@ -1,0 +1,28 @@
+P1, Water, Water from Michigan Lake, 1000, 10
+P2, Rice, Rice from Arizona, 2000, 30
+P3, Bread, Bread from Akansas, 3000, 20
+P4, Wine, Wine from New Jersy, 4000, 50
+P5, Cheese, Cheese from France, 500, 700
+P6, Chicken, Chicken from Alabama, 600, 45 
+P7, Pork, Pork from Maine, 500,40
+P8, Beef, Beaf from Colorado, 950, 67
+P9, Lamb,Lamb from Idaho, 800, 55
+P10, Honeydue, Hondydue from California, 300, 40
+P11, Apple, Apple from Florida, 500, 35
+P12, Orange, Orange from California, 600,55
+P13, Egg, Egg from Lowa, 900, 20
+P14, Potato, Potato from Ohio, 1000, 25
+P15, Onion, Onion from Nevada, 800, 30
+P16, Fish, Fish from Alaska, 1200, 60
+P17, Shrimp, Shrimp from Hawaii, 700, 90
+P18, shampoo, shampoo from Illinois, 400, 23
+P19, Soap, Soap from Iowa, 500, 45 
+P20, Toothpaste, Toothpaste from Massachusettes, 600, 40
+P21, Televison, Televison from Maryland, 800, 1300
+P22, Microwave, Microwave from New York, 900, 120
+P23, Computer, Computer from China, 300, 80
+P24, Lamp, Lamp from Japan, 60, 20
+P27, Sugar, Sugar from Taiwan, 4000, 13
+P28, Oil, Oil from Louisiana, 600, 28
+P29, Beer, Beer from Germany,1800,680
+P30, Milk, Milk from England, 2000, 60 

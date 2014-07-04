@@ -1,0 +1,370 @@
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+<Producer1> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 1
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 2
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+<EasternStates> sleeps...
+<Producer1> has produced one product for <MountainStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  2)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 3
+Number of current active consumer threads is 4
+<EasternStates> is goting to consume one product
+<MountainStates> sleeps...
+<EasternStates> Consumer consumes one <EasternStates> product
+<Producer1> is going to produce one product
+Occupied Cells -> 2
+<MountainStates> is goting to consume one product
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 1
+<Producer2> sleeps...
+<PacificStates> sleeps...
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 4
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<CentralStates> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 2
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 2
+<PacificStates> is goting to consume one product
+There is no product avaiable for <PacificStates>, please wait for your product...
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 5
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 6
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+<EasternStates> sleeps...
+<MountainStates> sleeps...
+<EasternStates> is goting to consume one product
+Number of current active consumer threads is 4
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+<Producer1> is going to produce one product
+<MountainStates> is goting to consume one product
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 3
+<Producer2> sleeps...
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 7
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<CentralStates> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 3
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 4
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+<Producer1> sleeps...
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 5
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 8
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 9
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<EasternStates> sleeps...
+<MountainStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 6
+<MountainStates> is goting to consume one product
+<Producer1> sleeps...
+<Producer1> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 10
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<CentralStates> sleeps...
+<Producer2> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 3
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 7
+<Producer2> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 11
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<Producer1> sleeps...
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 3
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 8
+<Producer1> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 12
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 9
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<Producer1> sleeps...
+<CentralStates> sleeps...
+<Producer1> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 13
+Number of current active consumer threads is 4
+<CentralStates> is goting to consume one product
+<Producer1> is going to produce one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 3
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 10
+<Producer2> sleeps...
+<Producer2> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 14
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 3
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 11
+<Producer1> sleeps...
+<Producer1> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 15
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 12
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<Producer1> sleeps...
+<CentralStates> sleeps...
+<Producer1> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 16
+Number of current active consumer threads is 4
+<CentralStates> is goting to consume one product
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 3
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 13
+<Producer2> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 17
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 3
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 14
+<Producer1> sleeps...
+<Producer1> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 18
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 15
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<CentralStates> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 2
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 16
+<Producer2> sleeps...
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 19
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 17
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 20
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 21
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 18
+<CentralStates> sleeps...
+<PacificStates> sleeps...
+<Producer2> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 2
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 19
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 22
+Number of current active consumer threads is 4
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 20
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 23
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 24
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 21
+<Producer2> sleeps...
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 25
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<CentralStates> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 3
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 22
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 23
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 26
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 27
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<Producer1> sleeps...
+Number of current active consumer threads is 4
+<MountainStates> sleeps...
+<EasternStates> sleeps...
+<MountainStates> is goting to consume one product
+<Producer1> is going to produce one product
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 24
+<CentralStates> sleeps...
+<PacificStates> sleeps...
+<Producer2> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 2
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 25
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 28
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 26
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 29
+Number of current active consumer threads is 4
+<Producer1> is going to produce one product
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 30
+Number of current active consumer threads is 4
+<Producer2> is going to produce one product
+<MountainStates> sleeps...
+<MountainStates> is goting to consume one product
+<MountainStates> done with consuming
+<Producer1> sleeps...
+Number of current active consumer threads is 3
+<Producer1> is going to produce one product
+<EasternStates> sleeps...
+<EasternStates> is goting to consume one product
+<EasternStates> Consumer consumes one <EasternStates> product
+Occupied Cells -> 3
+Product cosumed by <EasternStates> has been added into consumer product list, list size is 27
+<EasternStates> done with consuming
+<CentralStates> sleeps...
+<CentralStates> is goting to consume one product
+<CentralStates> Consumer consumes one <CentralStates> product
+Occupied Cells -> 2
+Product cosumed by <CentralStates> has been added into consumer product list, list size is 28
+<CentralStates> done with consuming
+<Producer2> sleeps...
+<Producer2> has produced one product for <EasternStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  0)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 31
+Number of current active consumer threads is 1
+<Producer2> is going to produce one product
+<PacificStates> sleeps...
+<PacificStates> is goting to consume one product
+<PacificStates> Consumer consumes one <PacificStates> product
+Occupied Cells -> 2
+Product cosumed by <PacificStates> has been added into consumer product list, list size is 29
+Write info into file
+<Producer1> sleeps...
+<Producer1> has produced one product for <CentralStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  1)
+ProductMessage produced by <Producer1> has been added into ProductMessageQueue, queue size is 32
+Number of current active consumer threads is 0
+Number of current active producer threads is 1
+<Producer1> has done with producing
+Total elapsed time is 226
+<PacificStates> done with consuming
+<Producer2> sleeps...
+<Producer2> has produced one product for <PacificStates>, Created at Nov/22/2012 11:21:21 ( BufferCell  3)
+ProductMessage produced by <Producer2> has been added into ProductMessageQueue, queue size is 33
+Number of current active consumer threads is 0
+Number of current active producer threads is 0
+<Producer2> has done with producing
+Total elapsed time is 226
